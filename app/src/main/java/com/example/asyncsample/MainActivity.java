@@ -27,7 +27,7 @@ public class MainActivity extends AppCompatActivity {
 
         Map<String, String> city = new HashMap<>();
 
-        city.put("name", "大阪");
+        city.put("name", "札幌");
         city.put("id", "270000");
         cityList.add(city);
 
